@@ -1,0 +1,3 @@
+Questa è la lista di Fede
+Nome: pane, Costo: 2.0, Quantità: 1, Categoria: Non categorizzati
+Prezzo totale: 2.0
